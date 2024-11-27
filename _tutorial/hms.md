@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "HEC-HMS Tutorials"
 collection: tutorial
 type: "Undergraduate course"
 permalink: /tutorial/hms
