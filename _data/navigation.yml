@@ -6,7 +6,7 @@
 
 main:
   - title: "Tutorials"
-    url: /tutorial/
+    url: "_pages/tutorial.html"
 
   - title: "Teaching"
     url: /talks/    
