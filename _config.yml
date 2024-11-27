@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.jpg"
+  avatar           : bio.jpg
   name             : "Venkatesh Merwade"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Professor"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
