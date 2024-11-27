@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/bio.png"
+  avatar           : "assets/images/merwade18.jpg"
   name             : "Venkatesh Merwade"
   pronouns         : # "he/him"  
   bio              : "Professor"
