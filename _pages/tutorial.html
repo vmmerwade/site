@@ -1,1 +1,12 @@
+---
+layout: archive
+title: "Tutorials"
+permalink: /tutorial/
+author_profile: true
+---
 
+{% include base_path %}
+
+{% for post in site.tutorial reversed %}
+  {% include archive-single.html %}
+{% endfor %}
