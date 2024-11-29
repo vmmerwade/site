@@ -5,11 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-body 
-{
-  overflow-y: hidden; /* Hide vertical scrollbar */
-  overflow-x: hidden; /* Hide horizontal scrollbar */
-}
+
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -359,9 +355,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-overflow-y: hidden
-overflow-x: hidden
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
@@ -369,4 +362,15 @@ compress_html:
   ignore:
     envs: development
 
+ui.add_head_html('''
+<style>
+body {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+body::-webkit-scrollbar {
+    display: none;  /* Safari and Chrome */
+}
+</style>
+''')
     
