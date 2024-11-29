@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<font size=2>
 
+Welcome to Dr. Venkaesh Merwade's Research Group in the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu/). This website is a resource that includes lots of learning material (see Tutorials and Teaching) for hydrology and our current research. For recent news, check my linkedin and X/Twitter feed on the left. For publications, check my google profile on the left. If you are looking for my Bio, here is a short version and long version.
 
